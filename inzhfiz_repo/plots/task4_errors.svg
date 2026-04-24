@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+<rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="480.0" y="36" text-anchor="middle" font-size="24" font-family="Arial">Задание 4: ошибки трёх методов</text>
+<rect x="90" y="70" width="650" height="480" fill="#ffffff" stroke="#d1d5db"/>
+<line x1="90.00" y1="70" x2="90.00" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="90.00" y="578" text-anchor="middle" font-size="14" font-family="Arial">0</text>
+<line x1="306.67" y1="70" x2="306.67" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="306.67" y="578" text-anchor="middle" font-size="14" font-family="Arial">10</text>
+<line x1="523.33" y1="70" x2="523.33" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="523.33" y="578" text-anchor="middle" font-size="14" font-family="Arial">20</text>
+<line x1="740.00" y1="70" x2="740.00" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="740.00" y="578" text-anchor="middle" font-size="14" font-family="Arial">30</text>
+<line x1="90" y1="570.65" x2="740" y2="570.65" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="575.65" text-anchor="end" font-size="14" font-family="Arial">1e-15</text>
+<line x1="90" y1="456.83" x2="740" y2="456.83" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="461.83" text-anchor="end" font-size="14" font-family="Arial">1e-10</text>
+<line x1="90" y1="343.00" x2="740" y2="343.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="348.00" text-anchor="end" font-size="14" font-family="Arial">1e-5</text>
+<line x1="90" y1="229.17" x2="740" y2="229.17" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="234.17" text-anchor="end" font-size="14" font-family="Arial">1e0</text>
+<line x1="90" y1="115.34" x2="740" y2="115.34" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="120.34" text-anchor="end" font-size="14" font-family="Arial">1e5</text>
+<line x1="90" y1="1.51" x2="740" y2="1.51" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="6.51" text-anchor="end" font-size="14" font-family="Arial">1e10</text>
+<text x="415.0" y="616" text-anchor="middle" font-size="18" font-family="Arial">n</text>
+<text x="28" y="310.0" text-anchor="middle" font-size="18" font-family="Arial" transform="rotate(-90 28 310.0)">|error|</text>
+<polyline fill="none" stroke="#0b6e4f" stroke-width="3" points="90.00,549.93 111.67,532.89 133.33,515.01 155.00,511.05 176.67,506.90 198.33,511.97 220.00,491.69 241.67,478.30 263.33,459.58 285.00,442.05 306.67,424.30 328.33,406.59 350.00,388.87 371.67,371.16 393.33,353.44 415.00,335.73 436.67,318.01 458.33,300.30 480.00,282.58 501.67,264.87 523.33,247.15 545.00,229.44 566.67,211.72 588.33,194.01 610.00,176.29 631.67,158.58 653.33,140.86 675.00,123.15 696.67,105.43 718.33,87.72 740.00,70.00"/>
+<circle cx="90.00" cy="549.93" r="3.5" fill="#0b6e4f"/>
+<circle cx="111.67" cy="532.89" r="3.5" fill="#0b6e4f"/>
+<circle cx="133.33" cy="515.01" r="3.5" fill="#0b6e4f"/>
+<circle cx="155.00" cy="511.05" r="3.5" fill="#0b6e4f"/>
+<circle cx="176.67" cy="506.90" r="3.5" fill="#0b6e4f"/>
+<circle cx="198.33" cy="511.97" r="3.5" fill="#0b6e4f"/>
+<circle cx="220.00" cy="491.69" r="3.5" fill="#0b6e4f"/>
+<circle cx="241.67" cy="478.30" r="3.5" fill="#0b6e4f"/>
+<circle cx="263.33" cy="459.58" r="3.5" fill="#0b6e4f"/>
+<circle cx="285.00" cy="442.05" r="3.5" fill="#0b6e4f"/>
+<circle cx="306.67" cy="424.30" r="3.5" fill="#0b6e4f"/>
+<circle cx="328.33" cy="406.59" r="3.5" fill="#0b6e4f"/>
+<circle cx="350.00" cy="388.87" r="3.5" fill="#0b6e4f"/>
+<circle cx="371.67" cy="371.16" r="3.5" fill="#0b6e4f"/>
+<circle cx="393.33" cy="353.44" r="3.5" fill="#0b6e4f"/>
+<circle cx="415.00" cy="335.73" r="3.5" fill="#0b6e4f"/>
+<circle cx="436.67" cy="318.01" r="3.5" fill="#0b6e4f"/>
+<circle cx="458.33" cy="300.30" r="3.5" fill="#0b6e4f"/>
+<circle cx="480.00" cy="282.58" r="3.5" fill="#0b6e4f"/>
+<circle cx="501.67" cy="264.87" r="3.5" fill="#0b6e4f"/>
+<circle cx="523.33" cy="247.15" r="3.5" fill="#0b6e4f"/>
+<circle cx="545.00" cy="229.44" r="3.5" fill="#0b6e4f"/>
+<circle cx="566.67" cy="211.72" r="3.5" fill="#0b6e4f"/>
+<circle cx="588.33" cy="194.01" r="3.5" fill="#0b6e4f"/>
+<circle cx="610.00" cy="176.29" r="3.5" fill="#0b6e4f"/>
+<circle cx="631.67" cy="158.58" r="3.5" fill="#0b6e4f"/>
+<circle cx="653.33" cy="140.86" r="3.5" fill="#0b6e4f"/>
+<circle cx="675.00" cy="123.15" r="3.5" fill="#0b6e4f"/>
+<circle cx="696.67" cy="105.43" r="3.5" fill="#0b6e4f"/>
+<circle cx="718.33" cy="87.72" r="3.5" fill="#0b6e4f"/>
+<circle cx="740.00" cy="70.00" r="3.5" fill="#0b6e4f"/>
+<line x1="770" y1="100" x2="798" y2="100" stroke="#0b6e4f" stroke-width="4"/>
+<text x="808" y="105" font-size="15" font-family="Arial">Прямая рекурсия</text>
+<polyline fill="none" stroke="#c1121f" stroke-width="3" points="90.00,550.00 111.67,532.94 133.33,515.07 155.00,510.83 176.67,507.84 198.33,505.56 220.00,503.71 241.67,502.16 263.33,500.81 285.00,499.63 306.67,498.57 328.33,497.61 350.00,496.74 371.67,495.94 393.33,495.20 415.00,494.51 436.67,493.87 458.33,493.26 480.00,492.69 501.67,492.16 523.33,491.64 545.00,491.16 566.67,490.70 588.33,490.25 610.00,489.83 631.67,489.42 653.33,489.03 675.00,488.66 696.67,488.30 718.33,487.95 740.00,487.61"/>
+<circle cx="90.00" cy="550.00" r="3.5" fill="#c1121f"/>
+<circle cx="111.67" cy="532.94" r="3.5" fill="#c1121f"/>
+<circle cx="133.33" cy="515.07" r="3.5" fill="#c1121f"/>
+<circle cx="155.00" cy="510.83" r="3.5" fill="#c1121f"/>
+<circle cx="176.67" cy="507.84" r="3.5" fill="#c1121f"/>
+<circle cx="198.33" cy="505.56" r="3.5" fill="#c1121f"/>
+<circle cx="220.00" cy="503.71" r="3.5" fill="#c1121f"/>
+<circle cx="241.67" cy="502.16" r="3.5" fill="#c1121f"/>
+<circle cx="263.33" cy="500.81" r="3.5" fill="#c1121f"/>
+<circle cx="285.00" cy="499.63" r="3.5" fill="#c1121f"/>
+<circle cx="306.67" cy="498.57" r="3.5" fill="#c1121f"/>
+<circle cx="328.33" cy="497.61" r="3.5" fill="#c1121f"/>
+<circle cx="350.00" cy="496.74" r="3.5" fill="#c1121f"/>
+<circle cx="371.67" cy="495.94" r="3.5" fill="#c1121f"/>
+<circle cx="393.33" cy="495.20" r="3.5" fill="#c1121f"/>
+<circle cx="415.00" cy="494.51" r="3.5" fill="#c1121f"/>
+<circle cx="436.67" cy="493.87" r="3.5" fill="#c1121f"/>
+<circle cx="458.33" cy="493.26" r="3.5" fill="#c1121f"/>
+<circle cx="480.00" cy="492.69" r="3.5" fill="#c1121f"/>
+<circle cx="501.67" cy="492.16" r="3.5" fill="#c1121f"/>
+<circle cx="523.33" cy="491.64" r="3.5" fill="#c1121f"/>
+<circle cx="545.00" cy="491.16" r="3.5" fill="#c1121f"/>
+<circle cx="566.67" cy="490.70" r="3.5" fill="#c1121f"/>
+<circle cx="588.33" cy="490.25" r="3.5" fill="#c1121f"/>
+<circle cx="610.00" cy="489.83" r="3.5" fill="#c1121f"/>
+<circle cx="631.67" cy="489.42" r="3.5" fill="#c1121f"/>
+<circle cx="653.33" cy="489.03" r="3.5" fill="#c1121f"/>
+<circle cx="675.00" cy="488.66" r="3.5" fill="#c1121f"/>
+<circle cx="696.67" cy="488.30" r="3.5" fill="#c1121f"/>
+<circle cx="718.33" cy="487.95" r="3.5" fill="#c1121f"/>
+<circle cx="740.00" cy="487.61" r="3.5" fill="#c1121f"/>
+<line x1="770" y1="128" x2="798" y2="128" stroke="#c1121f" stroke-width="4"/>
+<text x="808" y="133" font-size="15" font-family="Arial">Обратная рекурсия</text>
+<polyline fill="none" stroke="#1d4ed8" stroke-width="3" points="90.00,491.29 111.67,473.57 133.33,455.86 155.00,451.60 176.67,448.63 198.33,446.35 220.00,444.50 241.67,442.94 263.33,441.60 285.00,440.41 306.67,439.36 328.33,438.40 350.00,437.53 371.67,436.73 393.33,435.99 415.00,435.30 436.67,434.66 458.33,434.05 480.00,433.48 501.67,432.94 523.33,432.43 545.00,431.95 566.67,431.48 588.33,431.04 610.00,430.62 631.67,430.21 653.33,429.82 675.00,429.45 696.67,429.08 718.33,428.74 740.00,428.40"/>
+<circle cx="90.00" cy="491.29" r="3.5" fill="#1d4ed8"/>
+<circle cx="111.67" cy="473.57" r="3.5" fill="#1d4ed8"/>
+<circle cx="133.33" cy="455.86" r="3.5" fill="#1d4ed8"/>
+<circle cx="155.00" cy="451.60" r="3.5" fill="#1d4ed8"/>
+<circle cx="176.67" cy="448.63" r="3.5" fill="#1d4ed8"/>
+<circle cx="198.33" cy="446.35" r="3.5" fill="#1d4ed8"/>
+<circle cx="220.00" cy="444.50" r="3.5" fill="#1d4ed8"/>
+<circle cx="241.67" cy="442.94" r="3.5" fill="#1d4ed8"/>
+<circle cx="263.33" cy="441.60" r="3.5" fill="#1d4ed8"/>
+<circle cx="285.00" cy="440.41" r="3.5" fill="#1d4ed8"/>
+<circle cx="306.67" cy="439.36" r="3.5" fill="#1d4ed8"/>
+<circle cx="328.33" cy="438.40" r="3.5" fill="#1d4ed8"/>
+<circle cx="350.00" cy="437.53" r="3.5" fill="#1d4ed8"/>
+<circle cx="371.67" cy="436.73" r="3.5" fill="#1d4ed8"/>
+<circle cx="393.33" cy="435.99" r="3.5" fill="#1d4ed8"/>
+<circle cx="415.00" cy="435.30" r="3.5" fill="#1d4ed8"/>
+<circle cx="436.67" cy="434.66" r="3.5" fill="#1d4ed8"/>
+<circle cx="458.33" cy="434.05" r="3.5" fill="#1d4ed8"/>
+<circle cx="480.00" cy="433.48" r="3.5" fill="#1d4ed8"/>
+<circle cx="501.67" cy="432.94" r="3.5" fill="#1d4ed8"/>
+<circle cx="523.33" cy="432.43" r="3.5" fill="#1d4ed8"/>
+<circle cx="545.00" cy="431.95" r="3.5" fill="#1d4ed8"/>
+<circle cx="566.67" cy="431.48" r="3.5" fill="#1d4ed8"/>
+<circle cx="588.33" cy="431.04" r="3.5" fill="#1d4ed8"/>
+<circle cx="610.00" cy="430.62" r="3.5" fill="#1d4ed8"/>
+<circle cx="631.67" cy="430.21" r="3.5" fill="#1d4ed8"/>
+<circle cx="653.33" cy="429.82" r="3.5" fill="#1d4ed8"/>
+<circle cx="675.00" cy="429.45" r="3.5" fill="#1d4ed8"/>
+<circle cx="696.67" cy="429.08" r="3.5" fill="#1d4ed8"/>
+<circle cx="718.33" cy="428.74" r="3.5" fill="#1d4ed8"/>
+<circle cx="740.00" cy="428.40" r="3.5" fill="#1d4ed8"/>
+<line x1="770" y1="156" x2="798" y2="156" stroke="#1d4ed8" stroke-width="4"/>
+<text x="808" y="161" font-size="15" font-family="Arial">Средние прямоугольники</text>
+</svg>

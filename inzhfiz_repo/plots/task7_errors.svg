@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+<rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="480.0" y="36" text-anchor="middle" font-size="24" font-family="Arial">Задание 7: ошибка от шага</text>
+<rect x="90" y="70" width="650" height="480" fill="#ffffff" stroke="#d1d5db"/>
+<line x1="90.00" y1="70" x2="90.00" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="90.00" y="578" text-anchor="middle" font-size="14" font-family="Arial">1e-3</text>
+<line x1="252.50" y1="70" x2="252.50" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="252.50" y="578" text-anchor="middle" font-size="14" font-family="Arial">1e-2</text>
+<line x1="415.00" y1="70" x2="415.00" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="415.00" y="578" text-anchor="middle" font-size="14" font-family="Arial">1e-2</text>
+<line x1="577.50" y1="70" x2="577.50" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="577.50" y="578" text-anchor="middle" font-size="14" font-family="Arial">1e-2</text>
+<line x1="740.00" y1="70" x2="740.00" y2="550" stroke="#e5e7eb" stroke-width="1"/>
+<text x="740.00" y="578" text-anchor="middle" font-size="14" font-family="Arial">1e-1</text>
+<line x1="90" y1="590.06" x2="740" y2="590.06" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="595.06" text-anchor="end" font-size="14" font-family="Arial">1e-6</text>
+<line x1="90" y1="403.20" x2="740" y2="403.20" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="408.20" text-anchor="end" font-size="14" font-family="Arial">1e-4</text>
+<line x1="90" y1="216.33" x2="740" y2="216.33" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="221.33" text-anchor="end" font-size="14" font-family="Arial">1e-2</text>
+<line x1="90" y1="29.46" x2="740" y2="29.46" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="34.46" text-anchor="end" font-size="14" font-family="Arial">1e0</text>
+<text x="415.0" y="616" text-anchor="middle" font-size="18" font-family="Arial">h</text>
+<text x="28" y="310.0" text-anchor="middle" font-size="18" font-family="Arial" transform="rotate(-90 28 310.0)">error</text>
+<polyline fill="none" stroke="#0b6e4f" stroke-width="3" points="740.00,183.66 642.17,261.68 415.00,356.30 317.17,460.33 90.00,550.00"/>
+<circle cx="740.00" cy="183.66" r="3.5" fill="#0b6e4f"/>
+<circle cx="642.17" cy="261.68" r="3.5" fill="#0b6e4f"/>
+<circle cx="415.00" cy="356.30" r="3.5" fill="#0b6e4f"/>
+<circle cx="317.17" cy="460.33" r="3.5" fill="#0b6e4f"/>
+<circle cx="90.00" cy="550.00" r="3.5" fill="#0b6e4f"/>
+<line x1="770" y1="100" x2="798" y2="100" stroke="#0b6e4f" stroke-width="4"/>
+<text x="808" y="105" font-size="15" font-family="Arial">Ошибка x(T)</text>
+<polyline fill="none" stroke="#c1121f" stroke-width="3" points="740.00,70.00 642.17,101.27 415.00,169.26 317.17,197.67 90.00,263.25"/>
+<circle cx="740.00" cy="70.00" r="3.5" fill="#c1121f"/>
+<circle cx="642.17" cy="101.27" r="3.5" fill="#c1121f"/>
+<circle cx="415.00" cy="169.26" r="3.5" fill="#c1121f"/>
+<circle cx="317.17" cy="197.67" r="3.5" fill="#c1121f"/>
+<circle cx="90.00" cy="263.25" r="3.5" fill="#c1121f"/>
+<line x1="770" y1="128" x2="798" y2="128" stroke="#c1121f" stroke-width="4"/>
+<text x="808" y="133" font-size="15" font-family="Arial">Ошибка z(T)</text>
+</svg>
